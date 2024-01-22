@@ -38,3 +38,15 @@ label {
     font-weight: bold;
     margin-top: 20px;
 }
+
+.card {
+    width: 100px;
+    height: 100px;
+    background-color: #e0e0e0;
+    margin: 5px;
+    display: inline-block;
+    cursor: pointer;
+    font-size: 24px;
+    text-align: center;
+    line-height: 100px;
+}
